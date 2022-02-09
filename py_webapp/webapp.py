@@ -108,5 +108,3 @@ if submit_button:
 
     url_get = url + query
     webbrowser.open(url_get)
-
-    # calculate_distances(dict_answers)
