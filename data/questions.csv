@@ -1,0 +1,76 @@
+ID_question,type,question,question_token,absa_token
+3387,Slider-7,"Wie beurteilen Sie diese Aussage: ""Wer sich nichts zuschulden kommen lässt, hat von staatlichen Sicherheitsmassnahmen nichts zu befürchten.""",staatlich sicherheitsmassnahme,sicherheitsmassnahmen
+3388,Slider-7,"Wie beurteilen Sie diese Aussage: ""Die Bestrafung Krimineller ist wichtiger als deren Wiedereingliederung in die Gesellschaft.""",bestrafung kriminell wiedereingliederung gesellschaft,kriminell
+3389,Slider-7,"Wie beurteilen Sie diese Aussage: ""Für ein Kind ist es am besten, wenn ein Elternteil Vollzeit für die Kinderbetreuung zu Hause bleibt.""",kinderbetreuung,kinderbetreuung
+3391,Standard-4,Soll der Bund Ausländer/-innen bei der Integration stärker unterstützen?,ausländer integration,ausländer
+3392,Standard-4,Soll der Konsum von Cannabis legalisiert werden?,cannabis,cannabis
+3398,Standard-4,Soll die Schweiz das Schengen-Abkommen mit der EU kündigen und wieder verstärkte Personenkontrollen direkt an der Grenze einführen?,schengen personenkontrollen,schengen
+3399,Slider-7,"Wie beurteilen Sie diese Aussage: ""Vermögende sollen sich stärker an der Finanzierung des Staates beteiligen.""",vermögend finanzierung staat,vermögende
+3412,Standard-4,Befürworten Sie eine Erhöhung des Rentenalters (z.B. auf 67 Jahre)?,rentenalter,rentenalter
+3413,Standard-4,Soll der Staat die Schaffung von familienergänzenden Betreuungsstrukturen finanziell stärker unterstützen?,familienergänzend betreuungsstruktur finanziell,familienergänzend
+3414,Standard-4,Eine Initiative fordert einen bezahlten Vaterschaftsurlaub von vier Wochen. Befürworten Sie dieses Anliegen?,vaterschaftsurlaub,vaterschaftsurlaub
+3415,Standard-4,Sollen die Renten der Pensionskasse durch eine Senkung des Umwandlungssatzes gekürzt und an die gestiegene Lebenserwartung angepasst werden?,rente pensionskasse,rente
+3416,Standard-4,Befürworten Sie Bestrebungen in den Kantonen zur Senkung der Sozialhilfeleistungen?,sozialhilfeleistung,sozialhilfeleistung
+3417,Standard-4,Soll der Bund den gemeinnützigen Wohnungsbau verstärkt fördern?,wohnungsbau,wohnungsbau
+3418,Standard-4,Sollen sich die Versicherten stärker an den Gesundheitskosten beteiligen (z.B. Erhöhung der Mindestfranchise)?,gesundheitskosten franchise,gesundheitskosten
+3419,Standard-4,Würden Sie die Einführung der Widerspruchslösung bei der Organspende befürworten?,organspende,organspende
+3420,Standard-4,Soll für Kinder eine Impfpflicht gemäss dem Schweizerischen Impfplan eingeführt werden?,impfpflicht impfplan,impfpflicht
+3421,Standard-4,"Eine Initiative fordert, dass die Prämienverbilligung so ausgestaltet wird, dass niemand mehr als zehn Prozent des verfügbaren Einkommens für die Krankenkassenprämien aufwenden muss. Befürworten Sie dies?",prämienverbilligung krankenkassenprämien,prämienverbilligung
+3422,Standard-4,"Eine Initiative möchte dem Bund mehr Kompetenzen geben, um Massnahmen zur Senkung der Gesundheitskosten zu ergreifen (Einführung einer Kostenbremse). Befürworten Sie dies?",massnahme gesundheitskosten kostenbremse,gesundheitskosten
+3423,Standard-4,Soll sich der Staat stärker für gleiche Bildungschancen einsetzen (z.B. mit Nachhilfe-Gutscheinen für Schüler/-innen aus Familien mit geringem Einkommen)?,bildungschance nachhilfe-gutschein,bildungschance
+3424,Standard-4,"Finden Sie es richtig, wenn Schulen Dispense aus religiösen Gründen für einzelne Fächer oder Veranstaltungen bewilligen (z.B. Sport- oder Sexualkundeunterricht)?",schulen dispens religiös,religiös
+3425,Standard-4,Soll der Bund die finanzielle Unterstützung für die berufliche Weiterbildung und Umschulung ausbauen?,finanzielle Unterstützung weiterbildung,unterstützung
+3426,Standard-4,Gemäss dem Konzept der integrativen Schule werden Kinder mit Lernschwierigkeiten oder Behinderungen grundsätzlich in regulären Schulklassen unterrichtet. Befürworten Sie dies?,lernschwierigkeit behinderung schulklasse unterricht,lernschwierigkeit
+3427,Standard-4,"Sollen Ausländer/-innen, die seit mindestens zehn Jahren in der Schweiz leben, das Stimm- und Wahlrecht auf Gemeindeebene erhalten?",ausländer stimmrecht wahlrecht,recht
+3428,Standard-4,Ist die Begrenzung der Einwanderung für Sie wichtiger als der Erhalt der Bilateralen Verträge mit der EU?,einwanderung bilateral verträge eu,einwanderung
+3429,Standard-4,Sollen Sans-Papiers einfacher einen geregelten Aufenthaltsstatus erhalten?,sans-papier aufenthaltsstatus,aufenthaltsstatus
+3430,Standard-4,Befürworten Sie eine weitere Verschärfung des Asylrechts?,asylrecht,asylrecht
+3431,Standard-4,Sollen die Anforderungen für Einbürgerungen erhöht werden?,einbürgerung,einbürgerung
+3432,Standard-4,Sollen gleichgeschlechtliche Paare in allen Bereichen die gleichen Rechte wie heterosexuelle Paare haben?,gleichgeschlechtlich paar rechte heterosexuell,gleichgeschlechtlich
+3433,Standard-4,Sollen die Regeln der Fortpflanzungsmedizin weiter gelockert werden?,fortpflanzungsmedizin,fortpflanzungsmedizin
+3434,Standard-4,Befürworten Sie eine strengere Kontrolle der Lohngleichheit von Frauen und Männern?,lohngleichheit,lohngleichheit
+3435,Standard-4,"Würden Sie es befürworten, wenn in der Schweiz die direkte aktive Sterbehilfe durch eine/-n Arzt/Ärztin straffrei möglich wäre?",sterbehilfe,sterbehilfe
+3436,Standard-4,Haben für Sie Steuersenkungen auf Bundesebene in den nächsten vier Jahren Priorität?,steuersenkung,steuersenkungen
+3437,Standard-4,Befürworten Sie eine weitergehende Reduktion der Beitragszahlungen finanzstarker Kantone an die finanzschwachen Kantone im Rahmen des Finanzausgleichs (NFA)?,finanzausgleich nfa,finanzausgleich
+3438,Standard-4,Sollen Ehepaare getrennt als Einzelpersonen besteuert werden (Individualbesteuerung)?,ehepaar individualbesteuerung,individualbesteuerung
+3439,Standard-4,Befürworten Sie eine Beschränkung des Wettbewerbs zwischen den Kantonen bei der Unternehmenssteuer?,wettbewerb kanton unternehmenssteuer,wettbewerb
+3440,Standard-4,Sollen Privathaushalte ihren Stromanbieter frei wählen können (vollständige Liberalisierung des Strommarktes)?,privathaushalt stromanbieter liberalisierung strommarkt,liberalisierung
+3441,Standard-4,Befürworten Sie die Einführung eines für alle Arbeitnehmenden gültigen Mindestlohnes von CHF 4'000 für eine Vollzeitstelle?,mindestlohn,mindestlohn
+3442,Standard-4,Sollen Schweizer Unternehmen durch die Einführung von Investitionskontrollen besser vor Übernahmen durch ausländische Käufer geschützt werden?,investitionskontrolle �bernahmen,investitionskontrolle
+3443,Standard-4,Befürworten Sie eine vollständige Liberalisierung der Geschäftsöffnungszeiten?,liberalisierung geschäft �ffnungszeiten,öffnungszeiten
+3444,Standard-4,Soll der Kündigungsschutz für ältere Angestellte ausgebaut werden?,kündigungsschutz,kündigungsschutz
+3445,Standard-4,"Soll der Bund das Service-Public-Angebot (z.B. ÖV-Verbindungen, Poststellen) in den ländlichen Regionen stärker fördern?",service-public ländlich,service-public
+3446,Standard-4,Soll der Ausbau des Mobilfunknetzes nach 5G-Standard weiter vorangetrieben werden?,mobilfunknetz 5g,mobilfunknetz
+3447,Standard-4,"Sollen Online-Vermittlungsdienste (z.B. ""Airbnb""-Unterkünfte, ""Uber""-Taxidienste) stärker reguliert werden?",online-vermittlungsdienste airbnb uber regulieren,vermittlungsdienst
+3448,Standard-4,"Eine Initiative fordert, dass die Schweiz ab 2050 auf die Verwendung fossiler Energieträger verzichtet. Unterstützen Sie dieses Anliegen?",2050 fossil energieträger,fossil
+3449,Standard-4,Bislang wird auf fossile Brennstoffe (z.B. Heizöl oder Erdgas) eine CO2-Abgabe erhoben. Soll diese Abgabe auch auf Treibstoffe (z.B. Benzin und Diesel) ausgeweitet werden?,fossil brennstoff co2 abgabe,abgabe
+3450,Standard-4,Soll der Bund erneuerbare Energien stärker fördern?,erneuerbare energie,erneuerbar
+3451,Standard-4,Sollen stark befahrene Autobahnabschnitte auf sechs Spuren ausgebaut werden?,autobahn spuren,spuren
+3452,Standard-4,"Befürworten Sie die Einführung von ""Road Pricing"" für den motorisierten Individualverkehr auf vielbefahrenen Strassen?",road pricing,pricing
+3453,Standard-4,"Befürworten Sie eine Lockerung der aktuell gültigen Schutzbestimmungen für Grossraubtiere (Luchs, Wolf, Bär)?",schutzbestimmung grossraubtiere,schutzbestimmung
+3454,Standard-4,Soll das geltende Moratorium für gentechnisch veränderte Pflanzen und Tiere in der Schweizer Landwirtschaft über das Jahr 2021 hinaus verlängert werden?,moratorium pflanzen tiere landwirtschaft,moratorium
+3455,Standard-4,"Sollen nur noch Landwirte Direktzahlungen erhalten, die einen erweiterten ökologischen Leistungsnachweis erbringen (u.a. Verzicht auf synthetische Pestizide und Beschränkung des Antibiotika-Einsatzes)?",landwirt direktzahlung,direktzahlung
+3456,Standard-4,Befürworten Sie einen Ausbau des Landschaftsschutzes (z.B. strengere Regeln zum Bauen ausserhalb bestehender Bauzonen)?,landschaftsschutz bauzone,landschaftsschutz
+3457,Standard-4,Befürworten Sie strengere Tierschutzregelungen für die Haltung von Nutztieren (z.B. permanenter Zugang zum Aussenbereich)?,tierschutzregelung,tierschutzregelung
+3458,Standard-4,Soll die Finanzierung von Parteien sowie von Wahl- und Abstimmungskampagnen offengelegt werden müssen?,finanzierung partei kampagne,finanzierung
+3459,Standard-4,Soll die Einführung der elektronischen Stimmabgabe bei Wahlen und Abstimmungen (E-Voting) weiter vorangetrieben werden?,e-voting,abstimmung
+3460,Standard-4,Befürworten Sie die Senkung des Stimmrechtsalters auf 16 Jahre?,stimmrechtsalters,stimmrechtsalters
+3461,Standard-4,Soll auf die vom Bundesrat vorgeschlagene Verschärfung der Zulassungsbedingungen zum Zivildienst verzichtet werden?,zulassungsbedingung zivildienst,zulassungsbedingung
+3462,Standard-4,Sollen Exporte von Kriegsmaterial aus der Schweiz verboten werden?,kriegsmaterial,kriegsmaterial
+3463,Standard-4,Befürworten Sie die Beschaffung neuer Kampfflugzeuge für die Schweizer Armee?,kampfflugzeug,kampfflugzeug
+3464,Standard-4,Würden Sie eine Ausdehnung der rechtlichen Möglichkeiten zur Fahndung mittels DNA-Analyse befürworten?,fahndung dna,fahndung dna
+3465,Slider-7,"Wie beurteilen Sie die folgende Aussage: ""Von einer freien Marktwirtschaft profitieren langfristig alle.""",marktwirtschaft,marktwirtschaft
+3466,Slider-7,"Wie beurteilen Sie die folgende Aussage: ""Die fortschreitende Digitalisierung bietet deutlich mehr Chancen als Risiken.""",digitalisierung,digitalisierung
+3467,Slider-7,"Wie beurteilen Sie die folgende Aussage: ""Ein stärkerer Umweltschutz ist notwendig, auch wenn er zu Lasten des Wirtschaftswachstums durchgesetzt werden muss.""",umweltschutz,umweltschutz
+3468,Standard-4,Soll die Schweiz Verhandlungen über den Beitritt zur EU aufnehmen?,beitritt eu,eu
+3469,Standard-4,Soll der Bundesrat ein Freihandelsabkommen mit den USA anstreben?,freihandelsabkommen usa,freihandelsabkommen
+3470,Standard-4,"Eine Initiative fordert, dass die Haftungsregeln für Unternehmen mit Sitz in der Schweiz in Bezug auf die Einhaltung von Menschenrechten und Umweltstandards im Ausland verschärft werden. Befürworten Sie dies?",unternehmen menschenrecht umweltstandard,menschenrecht
+3471,Standard-4,Befürworten Sie die Kandidatur der Schweiz für einen Sitz im UNO-Sicherheitsrat?,sitz uno,uno
+3472,Budget-5,"Soll der Bund im Bereich ""Entwicklungshilfe"" mehr oder weniger ausgeben?",entwicklungshilfe,entwicklungshilfe
+3473,Budget-5,"Soll der Bund im Bereich ""Landesverteidigung"" mehr oder weniger ausgeben?",landesverteidigung,landesverteidigung
+3474,Budget-5,"Soll der Bund im Bereich ""Öffentliche Sicherheit"" mehr oder weniger ausgeben?",öffentlich sicherheit,sicherheit
+3475,Budget-5,"Soll der Bund im Bereich ""Bildung und Forschung"" mehr oder weniger ausgeben?",bildung forschung,bildung
+3476,Budget-5,"Soll der Bund im Bereich ""Soziale Wohlfahrt"" mehr oder weniger ausgeben?",soziale wohlfahrt,wohlfahrt
+3477,Budget-5,"Soll der Bund im Bereich ""Strassenverkehr (Motorisierter Individualverkehr)"" mehr oder weniger ausgeben?",strassenverkehr,strassenverkehr
+3478,Budget-5,"Soll der Bund im Bereich ""Öffentlicher Verkehr"" mehr oder weniger ausgeben?",öffentlich verkehr,verkehr
+3479,Budget-5,"Soll der Bund im Bereich ""Landwirtschaft"" mehr oder weniger ausgeben?",landwirtschaft,landwirtschaft
