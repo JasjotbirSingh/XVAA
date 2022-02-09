@@ -1,0 +1,12 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3459,absa_sentiment_3459,absa_scores_3459,absa_token_weights_3463,absa_sentiment_3463,absa_scores_3463,sentiment_tb
+50.0,75.0,57.0,0.0,positive,@narimoldi @CVP_PDC @Damian_Mueller_ Twitter ist aber nicht repräsentativ. Sonst könnte man ja auch Volksabstimmungen als Tweet-Poll durchführen und das E-Voting Problem wäre gelöst. 😏,twitter repräsentativ ja volksabstimmungen tweet poll durchfahren e voting problem lösen,"{'Twitter': 0.16, 'ist': 0.04, 'aber': 0.07, 'nicht': 0.04, 'repräsentativ': 0.11, 'Sonst': 0.16, 'könnte': 0.31, 'man': 0, 'ja': 0.14, 'auch': 0.21, 'Volksabstimmungen': 1.0, 'als': 0.37, 'Tweet-Poll': 0, 'durchführen': 0, 'und': 0.14, 'das': 0, 'E-Voting': 0, 'Problem': 0.19, 'wäre': 0.06, 'gelöst': 0.1}",neutral,"[0.976369, 0.010247865, 0.013383132]",,,,neutral
+0.0,0.0,0.0,-1.0,negative,"RT @roobin_ch: #GSoA: «Im Cyberkrieg sind Kampfflugzeuge nutzlos»
+
+Ein sehr einfältiges Statement. 🤦🏼‍♂️
+
+Klar, bei einer Überschwemmung br…",gsoa cyberkrieg kampfflugzeuge nutzlos einfältig statement klaren überschwemmung br,,,,"{'GSoA': 0.07, '«': 0, 'Im': 0, 'Cyberkrieg': 0, 'sind': 0, 'Kampfflugzeuge': 0, 'nutzlos': 0, '»': 0, 'Ein': 0, 'sehr': 0, 'einfältiges': 0, 'Statement': 0, '🤦': 0, '\u200d️': 0, 'Klar': 0, 'bei': 0, 'einer': 0, 'Überschwemmung': 0, 'br': 0, '…': 0}",neutral,"[0.5747854, 0.069144316, 0.35607028]",negative
+0.0,0.0,0.0,-1.0,negative,"#GSoA: «Im Cyberkrieg sind Kampfflugzeuge nutzlos»
+
+Ein sehr einfältiges Statement. 🤦🏼‍♂️
+
+Klar, bei einer Überschwemmung bringt dir ein Hydrant im Garten auch nichts. 👨🏼‍🚒",gsoa cyberkrieg kampfflugzeuge nutzlos einfältig statement klaren überschwemmung bringen hydrant garen,,,,"{'GSoA': 0.12, '«': 0, 'Im': 0, 'Cyberkrieg': 0, 'sind': 0, 'Kampfflugzeuge': 0, 'nutzlos': 0, '»': 0, 'Ein': 0, 'sehr': 0, 'einfältiges': 0, 'Statement': 0, '🤦': 0, '\u200d️': 0, 'Klar': 0, 'bei': 0, 'einer': 0, 'Überschwemmung': 0, 'bringt': 0, 'dir': 0, 'ein': 0, 'Hydrant': 0, 'im': 0, 'Garten': 0, 'auch': 0, 'nichts': 0, '\u200d': 0}",negative,"[0.019925598, 0.95906883, 0.021005511]",negative

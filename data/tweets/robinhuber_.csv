@@ -1,0 +1,18 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3392,absa_sentiment_3392,absa_scores_3392,absa_token_weights_3412,absa_sentiment_3412,absa_scores_3412,absa_token_weights_3436,absa_sentiment_3436,absa_scores_3436,absa_token_weights_3466,absa_sentiment_3466,absa_scores_3466,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @JfStadtZH: Happy 420 😁
+
+#Cannabis #legalizeit 
+
+@VereinLegalize @fdp_zh @mehblau https://t.co/Mt40StSKnW",happy cannabis legalizeit,"{'Happy': 0.23, 'Cannabis': 0.34, 'legalizeit': 1.0}",positive,"[0.012266674, 0.003240835, 0.9844924]",,,,,,,,,,neutral
+100.0,100.0,86.0,0.7,neutral,RT @andrisilbi_: #Cannabis-Pilotversuch: Eine hohe Qualität kann sichergestellt werden und der Schwarzmarkt wird eliminiert. Die Prävention…,cannabis pilotversuch hoch qualität sicherstellen schwarzmarkt eliminieren prävention,"{'Cannabis-Pilotversuch': 0.445, 'Eine': 0, 'hohe': 0, 'Qualität': 0.31, 'kann': 0.14, 'sichergestellt': 0.49, 'werden': 0, 'und': 0.22, 'der': 1.0, 'Schwarzmarkt': 0.28, 'wird': 0, 'eliminiert': 0.43, 'Die': 1.0, 'Prävention': 1.0, '…': 0}",positive,"[0.17494152, 0.010933832, 0.8141247]",,,,,,,,,,positive
+50.0,75.0,57.0,0.0,neutral,"Die Mitglieder haben entschieden! Die @Jungfreisinnige lancieren eine Volksinitiative für #rentenalter 66 aller Geschlechter mit anschliessender Bindung an die Lebenserwartung! 
+
+#rentenalter #ahv #initiative @JfStadtZH @mehblau https://t.co/S3vJAAw586",mitglieder entscheiden lancieren volksinitiative rentenalter all geschlechter anschliessender bindung lebenserwartung rentenalter ahv initiative,,,,"{'Die': 0.05, 'Mitglieder': 0.1, 'haben': 0.060000000000000005, 'entschieden': 0.07, 'lancieren': 0, 'eine': 0, 'Volksinitiative': 0.225, 'für': 0.37, 'rentenalter': 0.845, 'aller': 0, 'Geschlechter': 0.29, 'mit': 0.07, 'anschliessender': 0.06, 'Bindung': 0, 'an': 0, 'die': 0.05, 'Lebenserwartung': 0.1, 'ahv': 0, 'initiative': 0.14}",positive,"[0.15425287, 0.022494122, 0.823253]",,,,,,,neutral
+50.0,75.0,57.0,0.0,neutral,"Wir können uns Steuersenkungen nicht leisten... 🙃
+
+#msi @JfStadtZH @JFZH
+
+https://t.co/1Jd7hy1zft",steuersenkungen leisten msi,,,,,,,"{'Wir': 0.5, 'können': 0, 'uns': 0, 'Steuersenkungen': 0.8, 'nicht': 0, 'leisten': 1.0, '...': 0, 'msi': 0.22}",negative,"[0.26043352, 0.5844744, 0.15509212]",,,,neutral
+100.0,100.0,86.0,0.7,neutral,"Das Finanzdepartement der @stadtzuerich ist um sage und schreibe 78 Prozent gewachsen. Grund dafür sei die verstärkte Digitalisierung. Wieso können dann in der Privatwirtschaft, dank eben dieser Digitalisierung, Prozesse optimiert und verbessert werden?
+
+ https://t.co/iKSUokj4Rl",finanzdepartement sage schreiben prozent wachsen grund dafür verstärken digitalisierung wieso privatwirtschaft danken eben digitalisierung prozesse optimieren verbessern,,,,,,,,,,"{'Das': 0.03, 'Finanzdepartement': 0.065, 'der': 0.03, 'ist': 0.27, 'um': 0.02, 'sage': 0, 'und': 0.05, 'schreibe': 0, 'Prozent': 0.05, 'gewachsen': 0.14, 'Grund': 0, 'dafür': 0, 'sei': 0.06, 'die': 0.03, 'verstärkte': 0, 'Digitalisierung': 0.11, 'Wieso': 0, 'können': 0.06, 'dann': 0, 'in': 0.03, 'Privatwirtschaft': 0.060000000000000005, 'dank': 0.05500000000000001, 'eben': 0, 'dieser': 0.04, 'Prozesse': 0.08, 'optimiert': 0.11, 'verbessert': 0.1, 'werden': 0}",negative,"[0.005095067, 0.9454261, 0.049478836]",positive
