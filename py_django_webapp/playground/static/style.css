@@ -1,0 +1,33 @@
+h1 {
+    margin-bottom: 50px;
+}
+
+.main div {
+    float: left;
+    clear: none;
+}
+
+.tweets {
+    width:90%;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.table_tweets {
+    border-style: solid;
+}
+
+.answer_box {
+    border: 2px solid black;
+}
+
+.table_center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.color {
+    background-color: orange
+}

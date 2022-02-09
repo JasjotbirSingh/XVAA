@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    {% load crispy_forms_tags %}
+    {% load filters %}
+    <meta charset="UTF-8">
+    <title>Tweets for Questions</title>
+    <link rel="stylesheet" href={% static "style.css" %}>
+</head>
+<body style="padding: 50px;">
+
+
+{% with names=data_names.0 %}
+<h1>Antworten von {{ names.firstname }} {{ names.lastname }} (Twitter: {{ dict_username.username }})</h1>
+{% endwith%}
+
+{% if data_questions %}
+{% for row_question in data_questions %}
+
+<div class="questions">
+    <p>{{row_question.question}}</p>
+<!--    <button onclick="toggle_div({{row_question.ID_question}})">-</button>-->
+</div>
+
+<div class="answer">
+    <table class="table_center">
+        <tr>
+            {% with ans_value=data_cand_answers|get_answer:row_question.ID_question %}
+                {% if row_question.type == "Slider-7" %}
+                    {% for i in range_slider %}
+                        <td class="answer_box {{ i|color_slider:ans_value }}">
+                        {% cycle '0' '1' '2' '3' '4' '5' '6' '7' %}
+                        </td>
+                    {% endfor %}
+                {% elif row_question.type == "Standard-4" %}
+                    {% for i in range_standard %}
+                        <td class="answer_box {{ i|color_standard:ans_value }}">
+                            {% cycle "nein" "eher nein" "eher ja" "ja" %}
+                        </td>
+                    {% endfor %}
+                {% elif row_question.type == "Budget-5" %}
+                    {% for i in range_budget %}
+                        <td class="answer_box {{ i|color_budget:ans_value }}">
+                            {% cycle "deutlich weniger" "weniger" "gleichviel" "mehr" "deutlich mehr" %}
+                        </td>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+        </tr>
+    </table>
+</div>
+
+<div class="tweets" id="{{row_question.ID_question}}">
+    {% for row_tweet in data_ques_tweets %}
+        {% if row_tweet.ID_question ==  row_question.ID_question%}
+            <table class="table_tweets" width="100%">
+                {% with col_weights=row_tweet.weights %}
+                    {% with dict_weights=col_weights|to_json %}
+                        <tr>
+                            <td width="95%">
+                                <p>
+                                    {% for tok in row_tweet.tweet.split %}
+                                        {% if dict_weights|has_item:tok %}
+                                            <label style="background-color:rgba(16, 215, 247, {{ dict_weights|get_item:tok }});">{{ tok }}</label>
+                                        {% else %}
+                                            <label style="background-color:rgba(16, 215, 247, 0);">{{ tok }}</label>
+                                        {% endif %}
+                                    {% endfor %}
+                                </p>
+                            </td>
+                            <td width="5%">
+                                {{ row_tweet.sentiment }}
+                            </td>
+                        </tr>
+                    {% endwith %}
+                {% endwith %}
+            </table>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<!--<div id="{{row_question.ID_question}}" class="myDIV" style="display: none;">-->
+<!--    {{row_question.ID_question}}-->
+<!--</div>-->
+<hr>
+{% endfor %}
+{% endif %}
+
+<script>
+function toggle_div(idsa) {
+    var x = document.getElementById(idsa);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+        } else {
+        x.style.display = "none";
+        }
+    }
+</script>
+</body>
+</html>
