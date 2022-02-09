@@ -1,8 +1,3 @@
-## https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
-## https://blog.streamlit.io/introducing-submit-button-and-forms/
-## https://discuss.streamlit.io/t/horizontal-separator-line/11788/2
-## https://medium.com/@avra42/streamlit-python-cool-tricks-to-make-your-web-application-look-better-8abfc3763a5b
-
 import streamlit as st
 import pandas as pd
 import math
