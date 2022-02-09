@@ -1,0 +1,2 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3414,absa_sentiment_3414,absa_scores_3414,sentiment_tb
+50.0,75.0,57.0,0.0,positive,Vaterschaftsurlaub!!!!!! Yeah! Meine riesengrosse Freude! https://t.co/wlAcKQlxIY,vaterschaftsurlaub yeah riesengrosse freude,"{'Vaterschaftsurlaub': 0.78, 'Yeah': 0.07, 'Meine': 0.06, 'riesengrosse': 0, 'Freude': 0.13}",positive,"[0.00055800576, 0.0009813375, 0.99846065]",neutral

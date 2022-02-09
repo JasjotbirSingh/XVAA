@@ -1,0 +1,5 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3412,absa_sentiment_3412,absa_scores_3412,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"Altbundesrätin äussert sich zur Rentenaltererhöhung. Leider in die falsche Richtung...
+Die Äusserung zum Thema Gleichstellung ist jedoch korrekt: „Wenn man nicht immer wieder gegen Ungleichheiten ankämpft, dreht sich das Rad wieder zurück.“
+
+ https://t.co/OqaJCy3xPg",altbundesrätin äussert rentenaltererhöhung leider falsch richtung äusserung thema gleichstellung jedoch korrekt immer ungleichheiten ankämpfen drehen rad zurück,"{'Altbundesrätin': 0.1375, 'äussert': 0, 'sich': 0, 'zur': 0.04, 'Rentenaltererhöhung': 0.78, 'Leider': 0.35, 'in': 0.12, 'die': 0.04, 'falsche': 0.64, 'Richtung': 0.16, '...': 0, 'Die': 0.04, 'Äusserung': 0, 'zum': 0.04, 'Thema': 0, 'Gleichstellung': 0.12, 'ist': 0.03, 'jedoch': 0.06, 'korrekt': 0, '„': 0, 'Wenn': 0, 'man': 0, 'nicht': 0, 'immer': 0, 'wieder': 0, 'gegen': 0, 'Ungleichheiten': 0, 'ankämpft': 0, 'dreht': 0, 'das': 0, 'Rad': 0, 'zurück': 0, '“': 0}",positive,"[0.026217245, 0.4666885, 0.50709426]",neutral

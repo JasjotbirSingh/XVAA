@@ -1,0 +1,4 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3414,absa_sentiment_3414,absa_scores_3414,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @themattmueller_: .@Jungfreisinnige haben soeben folgende Parolen gefasst: 
+- NEIN #Vaterschaftsurlaub (@lohnabzuegeNein) 
+- JA Beschaff…",soeben folgend parolen gefasst nein vaterschaftsurlaub ja beschaff,"{'haben': 0.07, 'soeben': 0.06, 'folgende': 0.07, 'Parolen': 0.48, 'gefasst': 0, 'NEIN': 1.0, 'Vaterschaftsurlaub': 0.81, 'JA': 0, 'Beschaff': 0.07, '…': 0}",positive,"[0.41653508, 0.07693146, 0.50653344]",neutral

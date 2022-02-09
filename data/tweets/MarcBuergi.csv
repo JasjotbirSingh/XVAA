@@ -1,0 +1,19 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3436,absa_sentiment_3436,absa_scores_3436,absa_token_weights_3450,absa_sentiment_3450,absa_scores_3450,absa_token_weights_3465,absa_sentiment_3465,absa_scores_3465,sentiment_tb
+50.0,75.0,71.0,0.15,neutral,"«Wollen nicht das Schlusslicht bleiben» - Steuersenkung für Reiche
+
+Baselland soll das sein lassen. Die Verluste lohnen sich nicht für Gemeinden und Kanton. Hinteres Mittelfeld bringt nichts.
+
+Besser Schulden abbauen und in die Attraktivität investieren.
+https://t.co/mla7NREvHC",schlusslicht bleiben steuersenkung reichen baselland lassen verluste lohnen gemeinden kanton mittelfeld bringen gut schulden abbauen attraktivität investieren,"{'«': 0, 'Wollen': 0, 'nicht': 0, 'das': 0, 'Schlusslicht': 0, 'bleiben': 0, '»': 0, 'Steuersenkung': 0, 'für': 0, 'Reiche': 0, 'Baselland': 0, 'soll': 0, 'sein': 0, 'lassen': 0, 'Die': 0, 'Verluste': 0, 'lohnen': 0, 'sich': 0, 'Gemeinden': 0, 'und': 0, 'Kanton': 0, 'Hinteres': 0, 'Mittelfeld': 0, 'bringt': 0, 'nichts': 0, 'Besser': 0, 'Schulden': 0, 'abbauen': 0, 'in': 0, 'die': 0, 'Attraktivität': 0, 'investieren': 0}",positive,"[0.19201358, 0.24642995, 0.5615565]",,,,,,,neutral
+25.0,25.0,28.0,-0.35,neutral,"Mehr Importstrom und neue Gaskraftwerke anstatt Erhalt der Kernenergie und Ausbau der erneuerbaren Energiequellen.
+
+Die Schweiz spinnt.
+#Energiekrise
+#Energiewende
+#Nachhaltigkeit",mehr importstrom neue gaskraftwerke anstatt erhalt kernenergie ausbau erneuerbaren energiequellen schweiz spinnen energiekrise energiewende nachhaltigkeit,,,,"{'Mehr': 0.05, 'Importstrom': 0, 'und': 0.46, 'neue': 0.06, 'Gaskraftwerke': 0.065, 'anstatt': 0.27, 'Erhalt': 0, 'der': 0, 'Kernenergie': 0.08499999999999999, 'Ausbau': 0, 'erneuerbaren': 1.0, 'Energiequellen': 0.235, 'Die': 0, 'Schweiz': 0.05, 'spinnt': 0.07, 'Energiekrise': 0.05, 'Energiewende': 0.04, 'Nachhaltigkeit': 0.05}",positive,"[0.120161965, 0.13770844, 0.74212956]",,,,negative
+75.0,100.0,86.0,0.5,neutral,"In Deutschland wird Rot-Grün an die Macht kommen. Dann heisst es auf Wiedersehen Marktwirtschaft.
+
+Auch in Kanada wird Trudeau wie von Zauberhand gestärkt aus den Wahlen gehen.
+
+Wir werden nichts mehr besitzen und Glücklich sein.
+🤗🤗🤗",deutschland rot grün kommen heisst wiedersehen marktwirtschaft kanada trudeau zauberhand stärken wahlen gehen mehr besitzen glücklich,,,,,,,"{'In': 0.08, 'Deutschland': 0.17, 'wird': 0.05, 'Rot-Grün': 0.09, 'an': 0, 'die': 0.06, 'Macht': 0.18, 'kommen': 0.11, 'Dann': 0.26, 'heisst': 0, 'es': 0, 'auf': 0, 'Wiedersehen': 1.0, 'Marktwirtschaft': 0.44499999999999995, 'Auch': 0, 'in': 0.08, 'Kanada': 0.12, 'Trudeau': 0.19, 'wie': 0, 'von': 0, 'Zauberhand': 0.11, 'gestärkt': 0.09, 'aus': 0.04, 'den': 0.06, 'Wahlen': 0, 'gehen': 0, 'Wir': 0.05, 'werden': 0.05, 'nichts': 0.07, 'mehr': 0.08, 'besitzen': 0, 'und': 0.05, 'Glücklich': 0.07, 'sein': 0, '🤗': 0}",positive,"[0.035881214, 0.08178562, 0.88233316]",positive

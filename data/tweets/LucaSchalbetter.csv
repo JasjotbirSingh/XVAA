@@ -1,0 +1,2 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3441,absa_sentiment_3441,absa_scores_3441,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,RT @watson_news: Basel-Stadt führt gesetzlichen Mindestlohn von 21 Franken ein. https://t.co/QsVe9jLS6W,basel stadt führen gesetzlich mindestlohn franken,"{'Basel-Stadt': 0.37, 'führt': 0, 'gesetzlichen': 0, 'Mindestlohn': 0.915, 'von': 0, 'Franken': 0, 'ein': 0}",neutral,"[0.83906937, 0.07508235, 0.08584824]",neutral

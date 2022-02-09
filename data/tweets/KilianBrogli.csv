@@ -1,0 +1,8 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3466,absa_sentiment_3466,absa_scores_3466,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @parldigi: Seien auch Sie am Freitag, 29. Oktober 2021 in Basel dabei an der #DINAcon21! 
+11 Fachsessions rund um #Digitalisierung, #Inn…",freitag oktober basel dabei dinacon21 fachsessions rund digitalisierung inn,"{'Seien': 0.03, 'auch': 0, 'Sie': 0, 'am': 0, 'Freitag': 0.04, '29.': 0, 'Oktober': 0.03, 'in': 0.03, 'Basel': 0.05, 'dabei': 0, 'an': 0, 'der': 0.05, 'DINAcon21': 0.18, 'Fachsessions': 0.4, 'rund': 0, 'um': 0, 'Digitalisierung': 0, 'Inn': 0.28, '…': 0}",neutral,"[0.91385084, 0.0039670663, 0.08218214]",neutral
+50.0,75.0,57.0,0.0,neutral,"RT @NZahn42: Jetzt startet die Debatte über #Digitalisierung und #COVID19 am #SwissIGF21 
+
+Livestream hier: https://t.co/9BvUZTx1nr
+
+Die Kr…",starten debatte digitalisierung covid19 swissigf21 livestream kr,"{'Jetzt': 0.17, 'startet': 0, 'die': 0.05, 'Debatte': 0.72, 'über': 0, 'Digitalisierung': 0, 'und': 1.0, 'COVID19': 0.35, 'am': 0, 'SwissIGF21': 0.11, 'Livestream': 0.1, 'hier': 0.06, 'Die': 0.05, 'Kr': 0.04, '…': 0}",neutral,"[0.8899799, 0.038685653, 0.07133444]",neutral
