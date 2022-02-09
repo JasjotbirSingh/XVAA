@@ -1,0 +1,3 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3431,absa_sentiment_3431,absa_scores_3431,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"59 Prozent sagen Ja zur  leichteren Einbürgerung
+👍👍👍👍👍 https://t.co/anCxnskLor",prozent sagen ja leicht einbürgerung,"{'Prozent': 0.21, 'sagen': 0.3, 'Ja': 0, 'zur': 0.38, 'leichteren': 0, 'Einbürgerung': 1.0}",positive,"[0.0014856395, 0.001401185, 0.9971131]",neutral

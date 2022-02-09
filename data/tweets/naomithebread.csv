@@ -1,0 +1,3 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3479,absa_sentiment_3479,absa_scores_3479,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @jGruene_jVertEs: Es braucht eine grundlegender Umbau unserer Landwirtschaft.
+Wie das gehen könnte zeigt unser #Klimaplan 👉🌎 https://t.c…",brauchen grundlegend umbau landwirtschaft gehen zeigen klimaplan,"{'Es': 0, 'braucht': 0, 'eine': 0, 'grundlegender': 0, 'Umbau': 0, 'unserer': 0.15, 'Landwirtschaft': 0.7, 'Wie': 0, 'das': 0, 'gehen': 0, 'könnte': 0.15, 'zeigt': 0, 'unser': 0.15, 'Klimaplan': 0.28500000000000003}",positive,"[0.027429132, 0.0066728205, 0.96589804]",neutral

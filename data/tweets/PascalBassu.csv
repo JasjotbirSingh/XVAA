@@ -1,0 +1,2 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3434,absa_sentiment_3434,absa_scores_3434,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,RT @GBKZH: #1MaiZH #Lohngleichheit https://t.co/owP3gfq1fy,1maizh lohngleichheit,"{'1MaiZH': 1.0, 'Lohngleichheit': 0.6599999999999999}",positive,"[0.015889112, 0.0016663959, 0.98244447]",neutral

@@ -1,0 +1,2 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3441,absa_sentiment_3441,absa_scores_3441,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,RT @watson_news: JUSO fordert Mindestlohn für Lehrlinge. Was hältst du davon? - http://t.co/LeCT09Jeji via @watson_news http://t.co/O4MQDVo…,juso fordern mindestlohn lehrlinge halten davon via,"{'JUSO': 0.57, 'fordert': 0, 'Mindestlohn': 0.785, 'für': 0.44, 'Lehrlinge': 0.43, 'Was': 0, 'hältst': 0, 'du': 0, 'davon': 0, 'via': 0.16}",neutral,"[0.90423834, 0.032935318, 0.06282628]",neutral
