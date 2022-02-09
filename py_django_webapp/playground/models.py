@@ -5,7 +5,7 @@ import math
 
 class Distance:
     def calculate_distance(self, dict_ans_user):
-        df_answers_candidates = pd.read_csv('/Users/jasjotbirsingh/Desktop/XVAA/data/cand_answers.csv')
+        df_answers_candidates = pd.read_csv('../data/cand_answers.csv')
         df_distances = pd.DataFrame(
             columns=['firstname', 'lastname', 'username', 'total_distance'])  # should be user_id
 
