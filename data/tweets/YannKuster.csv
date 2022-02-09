@@ -1,0 +1,4 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3450,absa_sentiment_3450,absa_scores_3450,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @jglp_sg: Die Welt entwickelt sich weiter, ob mit oder ohne uns. Innovation ist gefordert! 
+
+Unser Vorstoss zu erneuerbaren Energiequell…",welt entwickeln weit innovation fordern vorstoss erneuerbaren energiequell,"{'Die': 0.05, 'Welt': 0.06, 'entwickelt': 0, 'sich': 0, 'weiter': 0, 'ob': 0, 'mit': 0.05, 'oder': 0.07, 'ohne': 0.04, 'uns': 0.03, 'Innovation': 0.11, 'ist': 0.09, 'gefordert': 0.11, 'Unser': 1.0, 'Vorstoss': 0, 'zu': 0, 'erneuerbaren': 0.3, 'Energiequell': 0.11, '…': 0}",positive,"[0.025283875, 0.00560738, 0.9691087]",neutral
