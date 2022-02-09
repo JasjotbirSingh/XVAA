@@ -24,7 +24,7 @@ MEHR = 'mehr'
 DEUTLICH_MEHR = 'deutlich mehr'
 
 df_questions = pd.read_csv('./data/questions.csv')
-df_answers_candidates = pd.read_csv('./data/cand_quest_answ.csv')
+df_answers_candidates = pd.read_csv('./data/cand_answers.csv')
 
 
 def calculate_distances(dict_ans):
