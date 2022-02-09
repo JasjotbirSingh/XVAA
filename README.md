@@ -7,7 +7,7 @@ To start the webapplication, run the following two lines in a terminal. The firs
 
 
 ## Data
-All data can be found in the folder 'data'. This contains the two data sets of the questions and the information given by the candidates. The sub-folder 'tweets' also contains all the candidates' tweets.
+All data can be found in the folder _data_. This contains the two data sets of the questions and the information given by the candidates. The sub-folder _tweets_ also contains all the candidates' tweets.
 
 ## py_webapp
 The first part of the web application, which was developed with Streamlit, can be found in this folder.
