@@ -1,0 +1,2 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3459,absa_sentiment_3459,absa_scores_3459,sentiment_tb
+100.0,100.0,86.0,0.7,negative,RT @BernhardGuhl: E-Voting: Die Wähler wünschen es - es muss schneller vorwärts gehen! @parldigi #evoting https://t.co/aBtpkbSXAB,e voting wähler wünschen schnell vorwärts gehen evoting,"{'E-Voting': 0, 'Die': 0.23, 'Wähler': 0.31, 'wünschen': 0, 'es': 0, 'muss': 0.03, 'schneller': 0, 'vorwärts': 0, 'gehen': 0, 'evoting': 0}",neutral,"[0.50940454, 0.07815454, 0.41244096]",positive

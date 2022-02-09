@@ -1,0 +1,3 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3414,absa_sentiment_3414,absa_scores_3414,sentiment_tb
+100.0,100.0,86.0,0.7,neutral,"RT @webergobet: #Vaterschaftsurlaub verbessert die Gesundheit der Mütter
+https://t.co/NYdRqJjz35",vaterschaftsurlaub verbessern gesundheit mütter,"{'Vaterschaftsurlaub': 1.0, 'verbessert': 0, 'die': 0, 'Gesundheit': 0, 'der': 0, 'Mütter': 0}",positive,"[0.0016841982, 0.0012755123, 0.9970402]",positive

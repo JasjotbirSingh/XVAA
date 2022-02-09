@@ -1,0 +1,10 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3479,absa_sentiment_3479,absa_scores_3479,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"Geschäft: 15.3458
+Landwirtschaft: Intensivproduktion statt auch Landschaftspflege
+
+Informiert Euch!
+Geht wählen! Das Klima wartet nicht
+
+Quelle: https://t.co/ZMwviv78iG…/2019-09/pro_natura_magazin_de.pdf
+
+Weitere Infos unter: https://t.co/XQFwIwLe7Z https://t.co/SZttaYSepV",geschäft landwirtschaft intensivproduktion statt landschaftspflege informieren gehen wählen klima warten quelle weit infos,"{'Geschäft': 0, '15.3458': 0, 'Landwirtschaft': 1.0, 'Intensivproduktion': 0, 'statt': 0.18, 'auch': 0, 'Landschaftspflege': 0, 'Informiert': 0, 'Euch': 0, 'Geht': 0, 'wählen': 0, 'Das': 0.06, 'Klima': 0.08, 'wartet': 0, 'nicht': 0, 'Quelle': 0, 'Weitere': 0, 'Infos': 0, 'unter': 0}",positive,"[0.18892366, 0.0356556, 0.7754208]",neutral

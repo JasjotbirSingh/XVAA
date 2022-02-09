@@ -1,0 +1,5 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3462,absa_sentiment_3462,absa_scores_3462,absa_token_weights_3479,absa_sentiment_3479,absa_scores_3479,sentiment_tb
+50.0,75.0,57.0,0.0,negative,"RT @jGruene_jVertEs: Keine Waffen für Despoten!
+http://t.co/NGBOHZnHYn
+#Kriegsmaterial #parlCH",waffen despoten kriegsmaterial parlch,"{'Keine': 0, 'Waffen': 0.15, 'für': 0.15, 'Despoten': 0, 'Kriegsmaterial': 0.595, 'parlCH': 0.32}",neutral,"[0.5217259, 0.015290676, 0.4629835]",,,,neutral
+100.0,100.0,100.0,1.0,neutral,RT @SPBirsfelden: Fair-Food-Initiative bringt uns vorwärts hin zu einer nachhaltigen Landwirtschaft. Darum @FairFoodJa am 23. September! #a…,fair food initiative bringen vorwärts nachhaltig landwirtschaft darum september a,,,,"{'Fair-Food-Initiative': 0, 'bringt': 0.07, 'uns': 0.07, 'vorwärts': 0.09, 'hin': 0, 'zu': 0.23, 'einer': 0, 'nachhaltigen': 1.0, 'Landwirtschaft': 1.0, 'Darum': 0, 'am': 0, '23.': 0, 'September': 0.07, 'a': 0.06, '…': 0}",positive,"[0.0015979781, 0.0011365447, 0.99726546]",positive

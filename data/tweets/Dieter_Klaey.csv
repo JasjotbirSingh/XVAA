@@ -1,0 +1,2 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3475,absa_sentiment_3475,absa_scores_3475,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,Bildungs- und Forschungsstandort #Winterthur und #Zürich stärken http://t.co/uI4SvcSuv1 @fdp_zh,bildungs forschungsstandort winterthur zürich stärken,"{'Bildungs-': 0, 'und': 0.27, 'Forschungsstandort': 0.41, 'Winterthur': 0.34, 'Zürich': 0, 'stärken': 1.0}",positive,"[0.00086319225, 0.0010572835, 0.99807954]",neutral
