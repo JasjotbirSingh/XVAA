@@ -79,9 +79,9 @@ def detail(request):
             username = tup[1]
 
         dict_username = {'username': username}
-        df_questions = pd.read_csv('/Users/jasjotbirsingh/Desktop/XVAA/data/questions.csv')
-        df_user = pd.read_csv('/Users/jasjotbirsingh/Desktop/XVAA/data/tweets/' + username + '.csv')
-        df_cands = pd.read_csv('/Users/jasjotbirsingh/Desktop/XVAA/data/cand_answers.csv')
+        df_questions = pd.read_csv('../data/questions.csv')
+        df_user = pd.read_csv('../data/tweets/' + username + '.csv')
+        df_cands = pd.read_csv('../data/cand_answers.csv')
 
         cand_answers = get_answers(df_cands, username)
 
