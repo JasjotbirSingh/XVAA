@@ -1,0 +1,11 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3479,absa_sentiment_3479,absa_scores_3479,sentiment_tb
+100.0,100.0,100.0,0.85,neutral,"350'000 Quadratmeter landwirtschaftliche Nutzfläche opfern für ein paar Hobby-Golfer? Nein, danke. Guter Entscheid  vom Grossen Rat. #grag #landwirtschaft https://t.co/fewXdiDfZh",quadratmeter landwirtschaftliche nutzfläche opfern paar hobby golfer nein danke gut entscheid grossen rat grag landwirtschaft,"{""350'000"": 0, 'Quadratmeter': 0.03, 'landwirtschaftliche': 0.04, 'Nutzfläche': 0, 'opfern': 0, 'für': 0.02, 'ein': 0, 'paar': 0, 'Hobby-Golfer': 0, 'Nein': 0.48, 'danke': 0.15000000000000002, 'Guter': 0, 'Entscheid': 1.0, 'vom': 0.26, 'Grossen': 0, 'Rat': 0, 'grag': 0.09, 'landwirtschaft': 0.21}",positive,"[0.075012155, 0.004159827, 0.92082804]",positive
+100.0,100.0,100.0,1.0,neutral,"Heute am Anlass des Bauernverband Aargau ""Vo Buur zu Buur"" im schönen Zurzibiet. Mit Podium zu den Ständeratswahlen.
+
+Für die Aargauer Landwirtschaft - @HansjoergKnecht in den Ständerat.
+
+@AargauerZeitung @FabianHaegler
+#Knechtwählen #sackstark https://t.co/UG2Xb5BGm6",heute anlass bauernverband aargau vo buur buur schön zurzibiet podium ständeratswahlen aargauer landwirtschaft ständerat knechtwählen sackstark,"{'Heute': 0.05, 'am': 0, 'Anlass': 0, 'des': 0, 'Bauernverband': 0.065, 'Aargau': 0.17, 'Vo': 0.04, 'Buur': 0, 'zu': 0, 'im': 0, 'schönen': 0.21, 'Zurzibiet': 0.1, 'Mit': 0.07, 'Podium': 0.32, 'den': 0.06, 'Ständeratswahlen': 0.25375000000000003, 'Für': 1.0, 'die': 0.06, 'Aargauer': 0, 'Landwirtschaft': 1.0, 'in': 0.12, 'Ständerat': 0.0675, 'Knechtwählen': 0.1, 'sackstark': 0}",positive,"[0.13958037, 0.015138337, 0.8452813]",positive
+50.0,75.0,57.0,0.0,neutral,"Für eine produzierende Landwirtschaft! 🚜
+
+#wahlen19 #zukunftabersicher https://t.co/0CSTNuqIgN",produzierend landwirtschaft wahlen19 zukunftabersicher,"{'Für': 0.34, 'eine': 0, 'produzierende': 0, 'Landwirtschaft': 1.0, 'wahlen19': 0, 'zukunftabersicher': 0}",positive,"[0.00064845046, 0.00093124306, 0.99842036]",neutral

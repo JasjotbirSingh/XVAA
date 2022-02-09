@@ -1,0 +1,6 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3462,absa_sentiment_3462,absa_scores_3462,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @DFoppa: 12.30 im #SRFRendezvous und auf der PlaySRFApp
+
+#Kriegsmaterial Parlament verschärft Exportbedingungen erheblich
+
+#Hochpreisins…",srfrendezvous playsrfapp kriegsmaterial parlament verschärfen exportbedingungen erheblich hochpreisins,"{'12.30': 0, 'im': 0, 'SRFRendezvous': 0.18, 'und': 0.05, 'auf': 0.06, 'der': 0.08, 'PlaySRFApp': 0.2, 'Kriegsmaterial': 0.35, 'Parlament': 0.51, 'verschärft': 0.97, 'Exportbedingungen': 0.27999999999999997, 'erheblich': 0, 'Hochpreisins': 0.28500000000000003, '…': 0}",negative,"[0.003143196, 0.9888342, 0.008022595]",neutral

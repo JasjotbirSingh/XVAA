@@ -1,0 +1,7 @@
+answer_five,answer_four,answer_seven,polarity,sentiment_gs,tweet,tweet_tokens,absa_token_weights_3392,absa_sentiment_3392,absa_scores_3392,absa_token_weights_3459,absa_sentiment_3459,absa_scores_3459,sentiment_tb
+50.0,75.0,57.0,0.0,neutral,"RT @JfStadtZH: Happy 420 😁
+
+#Cannabis #legalizeit 
+
+@VereinLegalize @fdp_zh @mehblau https://t.co/Mt40StSKnW",happy cannabis legalizeit,"{'Happy': 0.23, '420': 0, 'Cannabis': 0.34, 'legalizeit': 1.0}",positive,"[0.012266674, 0.003240835, 0.9844924]",,,,neutral
+50.0,75.0,57.0,0.0,neutral,"RT @simonschlauri: Sammelaktion für das E-Voting-Moratorium (eidg. Volksinitiative) am Hauptbahnhof Zürich, diesmal mit der Digitalen Gesel…",sammelaktion e voting moratorium eidg volksinitiative hauptbahnhof zürich diesmal digital gesel,,,,"{'Sammelaktion': 0.94, 'für': 0.81, 'das': 0, 'E-Voting-Moratorium': 0, 'eidg': 0.25, 'Volksinitiative': 0.245, 'am': 0, 'Hauptbahnhof': 0, 'Zürich': 0, 'diesmal': 0.195, 'mit': 0.2, 'der': 0.11, 'Digitalen': 0.17, 'Gesel': 0, '…': 0}",neutral,"[0.7645144, 0.038646426, 0.19683918]",neutral
