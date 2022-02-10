@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-Title: XVAA
-Message: "If you use this software, please cite it as below."
-Type: project
-Authors:
-  - given-names: Jasjotbir
-    family-names: Singh
-    email: jasjotbir.singh@stud.hslu.ch
-Year: 2021
-URL: "https://github.com/JasjotbirSingh/XVAA"
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Singh"
+  given-names: "Jasjotbir"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Bot"
+  given-names: "Hew"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "XVAA"
+year: 2021
+url: "https://github.com/JasjotbirSingh/XVAA"
