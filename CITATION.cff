@@ -1,12 +1,10 @@
 cff-version: 1.2.0
 Title: XVAA
-Message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+Message: "If you use this software, please cite it as below."
 Type: project
 Authors:
   - given-names: Jasjotbir
     family-names: Singh
     email: jasjotbir.singh@stud.hslu.ch
 Year: 2021
-URL: https://github.com/JasjotbirSingh/XVAA
+URL: "https://github.com/JasjotbirSingh/XVAA"
